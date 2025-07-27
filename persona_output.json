@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "documents": [
+      "sample1.pdf",
+      "sample2.pdf",
+      "sample3.pdf"
+    ],
+    "persona": "PhD student in computational biology",
+    "job_to_be_done": "Prepare a literature review on graph neural networks",
+    "timestamp": "2025-07-27T16:49:38.632849Z"
+  },
+  "sections": [
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "\u2022   Persona : PhD Researcher in Computational Biology",
+      "importance_rank": 1
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "\u2022   Documents : 4 research papers on \"Graph Neural Networks for Drug Discovery\"",
+      "importance_rank": 2
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "\u2022   Job : \"Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks\"",
+      "importance_rank": 3
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 8,
+      "section_title": "\u2022   Persona : Undergraduate Chemistry Student",
+      "importance_rank": 4
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "3.   Job-to-be-Done : Concrete task the persona needs to accomplish",
+      "importance_rank": 5
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "Document collection, persona and job-to-be-done can be very diverse. So, the solution that teams need to build needs to be generic to generalize to this variety.",
+      "importance_rank": 6
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "\u2022   Job-to-be-done: This will be related to the persona (Example: Provide a literature review for a given topic and available research papers, What should I study for Organic Chemistry given the chemistry documents, Summarize the financials of corporation xyz given the detailed year end financial reports etc.)",
+      "importance_rank": 7
+    },
+    {
+      "document": "sample3.pdf",
+      "page": 8,
+      "section_title": "Nawal Soliman ALKolifi ALEnezi/ Procedia Computer Science 00 (2019) 000 \u2013 000 References [1]   Arifin, S., Kibria, G., Firoze, A.,  Amini, A., & Yan, H. (2012) \u201cDermatological Disease Diagnosis Using Color - Skin Images.\u201d Xian: International Conference on Machine Learning and Cybernetics . [2]   Yasir, R., Rahman, A., & Ahmed, N. (2014) \u201cDermatological Disease Detection using Image Processin g and Artificial Neural Network. \u201cDhaka : International Conference on Electrical and Computer Engineering . [3]   Santy, A., & Joseph, R. (2015) \u201cSegmentation Methods for Computer Aided Melanoma Detection.\u201d  Global Conference on Communication   Technologies. [4]   Zeljkovic, V., Druzgalski, C., Bojic- Minic, S., Tameze, C., & Mayorga, P. (2015) \u201c Supplemental Melanoma Diagnosis for Darker Skin Complexion Gradients.\u201d  Pan American Health Care Exchanges [5]   Suganya R. (2016) \u201cAn Automated Computer Aided Diagnosis of Skin Lesions Detection and Classification for Dermoscopy Images.\u201d International Conference on Recent Trends in Information Technology . [6]   Alam, N., Munia, T., Tavakolian, K., Vasefi, V., MacKinnon, N., & Fazel- Rezai, R. (2016) \u201cAutomatic Detection and Severity Measure ment of Eczema Using Image Processing.\u201d  IEEE . [7]   Kumar, V., Kumar, S., & Saboo, V. (2016) \u201cDermatological Disease Detection Using Image Processing and Machine Learning.\u201d  IEEE . [8]   Krizhevsky, A., ILYA, S., & Geoffrey, E. (2012) \u201cImageNet Classification with Deep Convolutional Neural Networks.\u201d  Advances in Neural   Information Processing Systems. [9]   Cristianini, N., Shawe, J., \u201cSupport Vector Machines\u201d, 2000. [10] SOMMERVILLE, I., \u201cSoftware Engineering\u201d. 9th .2011.",
+      "importance_rank": 8
+    },
+    {
+      "document": "sample3.pdf",
+      "page": 7,
+      "section_title": "6. Future Work Jason Fried says, \u201cWhen is your product or service finished? When should you put it out on the market? When is it safe to let people have it? Probably a lot sooner than you are comfortable with. Once your product does what it needs to do, get it out there [10]. Just because you have still got a list of things to do does not mean it is not done. Do not hold everything else up because of a few leftovers. You can do them later. And doing them later may mean doing them better, too. [10]. There are many enhancements and extensions which will be added in the future, first, the method of detect skin disease must be on the mobile application developed, then detection the skin lesion in Dermis layer of the skin, finally must detect all the skin disease in the world and degree of disease. 7. Conclusion Detection of skin diseases is a very important step to reduce death rates, disease transmission and the development of the skin disease. Clinical procedures to detect skin diseases are very expensive and time-consuming. Image processing techniques help to build automated screening system for dermatology at an initial stage. The extraction of features plays a key role in helping to classify skin diseases. In this research the method of detection was designed by using pretrained convolutional neural network (AlexNet) and SVM. In conclusion, we must not forget that this research has an effective role in the detection of skin diseases in Saudi Arabia because it has a very hot weather for the presence of deserts; this indicates that skin diseases are widespread. This research supports medical efficiency in Saudi Arabia. Table 1. Disease Detection Rate",
+      "importance_rank": 9
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "section_title": "\u2022   Persona can again be very diverse (Example: Researcher, Student, Salesperson, Journalist, Entrepreneur etc)",
+      "importance_rank": 10
+    }
+  ],
+  "subsections": [
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "\u2022   Persona : PhD Researcher in Computational Biology"
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "\u2022   Documents : 4 research papers on \"Graph Neural Networks for Drug Discovery\""
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "\u2022   Job : \"Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks\""
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 8,
+      "refined_text": "\u2022   Persona : Undergraduate Chemistry Student"
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "3.   Job-to-be-Done : Concrete task the persona needs to accomplish"
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "Document collection, persona and job-to-be-done can be very diverse. So, the solution that teams need to build needs to be generic to generalize to this variety."
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "\u2022   Job-to-be-done: This will be related to the persona (Example: Provide a literature review for a given topic and available research papers, What should I study for Organic Chemistry given the chemistry documents, Summarize the financials of corporation xyz given the detailed year end financial reports etc.)"
+    },
+    {
+      "document": "sample3.pdf",
+      "page": 8,
+      "refined_text": "Nawal Soliman ALKolifi ALEnezi/ Procedia Computer Science 00 (2019) 000 \u2013 000 References [1]   Arifin, S., Kibria, G., Firoze, A.,  Amini, A., & Yan, H. (2012) \u201cDermatological Disease Diagnosis Using Color - Skin Images.\u201d Xian: International Conference on Machine Learning and Cybernetics . [2]   Yasir, R., Rahman, A., & Ahmed, N. (2014) \u201cDermatological Disease Detection using Image Processin g and Artificial Neural Network. \u201cDhaka : International Conference on Electrical and Computer Engineering . [3]   Santy, A., & Joseph, R. (2015) \u201cSegmentation Methods for Computer Aided Melanoma Detection.\u201d  Global Conference on Communication   Technologies. [4]   Zeljkovic, V., Druzgalski, C., Bojic- Minic, S., Tameze, C., & Mayorga, P. (2015) \u201c Supplemental Melanoma Diagnosis for Darker Skin Complexion Gradients.\u201d  Pan American Health Care Exchanges [5]   Suganya R. (2016) \u201cAn Automated Computer Aided Diagnosis of Skin Lesions Detection and Classification for Dermoscopy Images.\u201d International Conference on Recent Trends in Information Technology . [6]   Alam, N., Munia, T., Tavakolian, K., Vasefi, V., MacKinnon, N., & Fazel- Rezai, R. (2016) \u201cAutomatic Detection and Severity Measure ment of Eczema Using Image Processing.\u201d  IEEE . [7]   Kumar, V., Kumar, S., & Saboo, V. (2016) \u201cDermatological Disease Detection Using Image Processing and Machine Learning.\u201d  IEEE . [8]   Krizhevsky, A., ILYA, S., & Geoffrey, E. (2012) \u201cImageNet Classification with Deep Convolutional Neural Networks.\u201d  Advances in Neural   Information Processing Systems. [9]   Cristianini, N., Shawe, J., \u201cSupport Vector Machines\u201d, 2000. [10] SOMMERVILLE, I., \u201cSoftware Engineering\u201d. 9th .2011."
+    },
+    {
+      "document": "sample3.pdf",
+      "page": 7,
+      "refined_text": "6. Future Work Jason Fried says, \u201cWhen is your product or service finished? When should you put it out on the market? When is it safe to let people have it? Probably a lot sooner than you are comfortable with. Once your product does what it needs to do, get it out there [10]. Just because you have still got a list of things to do does not mean it is not done. Do not hold everything else up because of a few leftovers. You can do them later. And doing them later may mean doing them better, too. [10]. There are many enhancements and extensions which will be added in the future, first, the method of detect skin disease must be on the mobile application developed, then detection the skin lesion in Dermis layer of the skin, finally must detect all the skin disease in the world and degree of disease. 7. Conclusion Detection of skin diseases is a very important step to reduce death rates, disease transmission and the development of the skin disease. Clinical procedures to detect skin diseases are very expensive and time-consuming. Image processing techniques help to build automated screening system for dermatology at an initial stage. The extraction of features plays a key role in helping to classify skin diseases. In this research the method of detection was designed by using pretrained convolutional neural network (AlexNet) and SVM. In conclusion, we must not forget that this research has an effective role in the detection of skin diseases in Saudi Arabia because it has a very hot weather for the presence of deserts; this indicates that skin diseases are widespread. This research supports medical efficiency in Saudi Arabia. Table 1. Disease Detection Rate"
+    },
+    {
+      "document": "sample1.pdf",
+      "page": 7,
+      "refined_text": "\u2022   Persona can again be very diverse (Example: Researcher, Student, Salesperson, Journalist, Entrepreneur etc)"
+    }
+  ]
+}
